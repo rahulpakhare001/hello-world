@@ -1,2 +1,3 @@
 # hello-world
-Getting Started
+Hello people,
+I am Rahul. Just getting started on GitHub.
